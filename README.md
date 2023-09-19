@@ -1,1 +1,1 @@
-# amplify
+# CandleStickTradepal_amplify
